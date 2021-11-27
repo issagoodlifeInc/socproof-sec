@@ -45,7 +45,7 @@ up here ☝🏽
 ### Links
 
 - Solution URL: [Solution :- ](https://github.com/issagoodlifeInc/socproof-sec.git)
-- Live Site URL: [Github Pages :- ](https://github.com/issagoodlifeinc.github.io/socproof-sec/)
+- Live Site URL: [Github Pages :- ](https://socproof-sec.netlify.app/)
 
 ## My process
 
