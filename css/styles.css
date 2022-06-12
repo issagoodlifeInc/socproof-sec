@@ -32,7 +32,7 @@ body {
   padding-bottom: 1rem;
 }
 
-.user_heading h2 {
+.user_heading h1 {
   font-weight: 700;
   font-size: 1.7rem;
   color: var(--vrydkmagneta);
